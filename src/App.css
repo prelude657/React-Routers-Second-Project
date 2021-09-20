@@ -1,0 +1,46 @@
+.App {
+  background-color: white;
+}
+
+.navtext {
+  text-align: center;
+
+  margin-top: 35px;
+  background-color: wheat;
+  border: solid;
+  margin: 5px;
+  height: 35px;
+}
+.navflex {
+  display: flex;
+  padding-left: 4px;
+  margin: auto 10 10;
+}
+.navflex li {
+  margin: auto;
+  text-align: center;
+  color: black;
+}
+
+.navheight {
+  height: 15px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.bpc {
+  background-color: aqua;
+  border: solid;
+  margin: 5px;
+  height: 80px;
+  height: 90px;
+}
+
+.navtext2 {
+  text-align: center;
+  margin-top: 5px;
+  border: solid;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: goldenrod;
+}
